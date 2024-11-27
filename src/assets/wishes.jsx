@@ -42,9 +42,11 @@ import ashley from './images/ashley.jpeg'
 import alisha from './images/alisha.jpeg'
 import rich from './images/rich.jpg'
 import sarahW from './images/sarahW.jpeg'
+import danM from './images/danM.jpg'
 
 const images = {
   rich,
+  danM,
   sarahW,
   jefferis,
   randy,
@@ -354,6 +356,12 @@ export const wishes = [
       "message": "",
       "memory": "My favorite memory when I think of Nae was when I was over at her house hanging out being bored young-ins, we were on top of their “clubhouse “ and she convinced me we were gonna jump from the top together, on the count of three. Well 1,2,3 Sarah jumps and lands like a rag doll knocking the wind out of me and she is still on top of the clubhouse laughing her ass off because I did jump and how silly I looked doing it. We also spent many Saturdays together. We ordered bread sticks and Mountain Dew and watched Titanic almost every Saturday! 🤣 And another one when one day we were watching titanic and all of a sudden Issac was out in the front yard screaming. We go running out and he is laying face down on the ground screaming and crying pounding the ground until the fire department showed up because he snuck into the parents room and took a smoke bomb and went to the woods with it and ended up catching the woods on fire.. 😬 😂",
       "img": images.sarahW
+    },
+    {
+      "from": "Dan M",
+      "message": "Happy Birthday Nae",
+      "memory": "To pick just one memory is so hard. You have given me so many great memories and adventures with many more to go",
+      "img": images.danM
     }
   ]
 
